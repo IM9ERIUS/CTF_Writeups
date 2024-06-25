@@ -40,13 +40,19 @@ Based on the following results returned, we will attempt to use the usermap_scri
 ![](images/lame_6.png)
 
 I have selected to use the exploit and have made additions to the exploit.
-`RHOST set to 10.129.228.205
-`RPORT set to 445`
-`LHOST set to 10.10.14.11
+
+`RHOST set to 10.129.228.205'
+
+'RPORT set to 445'
+
+'LHOST set to 10.10.14.11'
+
 ![](images/lame_7.png)
 
 Confirmation has been provided that the exploit has run successfully and I have gained access to the remote pc. 
 ![](images/lame_8.png)
 
 Through enumeration, I have identified the user directory for Makis, and have uncovered the flag. 
+
+![](images/lame_10.png)
 
